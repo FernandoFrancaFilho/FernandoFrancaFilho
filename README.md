@@ -126,3 +126,5 @@ Criações no Figma com foco em experiência do usuário e interfaces funcionais
   <!-- Game Dev -->
   <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 </div>
+
+![Snake animation](https://github.com/FernandoFrancaFilho/FernandoFrancaFilho/blob/output/github-contribution-grid-snake.svg)

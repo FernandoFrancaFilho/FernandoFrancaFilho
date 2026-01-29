@@ -128,3 +128,8 @@ Criações no Figma com foco em experiência do usuário e interfaces funcionais
 </div>
 
 ![Snake animation](https://github.com/FernandoFrancaFilho/FernandoFrancaFilho/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoFrancaFilho/FernandoFrancaFilho/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/FernandoFrancaFilho/FernandoFrancaFilho/output/github-contribution-grid-snake.svg">
+</picture>
